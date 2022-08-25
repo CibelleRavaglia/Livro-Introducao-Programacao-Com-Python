@@ -49,7 +49,7 @@ ____
 ___
 <h3 align="left">   📃 Licença: </h3>  
 
-✔️ Este repositório usa a licença do [MIT] (https://opensource.org/licenses/MIT)
+✔️ Este repositório usa a licença do [MIT](https://opensource.org/licenses/MIT)
 
-✔️ Confira o arquive [LICENSE](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer) para mais informações e dúvidas.
+✔️ Confira o arquivo [LICENSE](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#disclaimer) para mais informações e dúvidas.
 
