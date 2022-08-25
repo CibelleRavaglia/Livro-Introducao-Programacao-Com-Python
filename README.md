@@ -12,7 +12,7 @@
 <h3 align="left">   🚀 Sobre o repositório: </h3>  
 ✔️ Repositório criado para registro dos exercícios propostos no livro.
 
-✔️ Upando trilha de aprendizado Ciência de Dados!!!
+✔️ Upando trilha de aprendizado de Ciência de Dados!!!
 ____
 
 <h3 align="left">   📚 Sobre o livro: </h3>  
