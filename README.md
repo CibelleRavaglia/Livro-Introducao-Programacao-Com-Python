@@ -1,4 +1,4 @@
-**Livro_Introducao_Programacao_Com_Python**
+**Livro-Introducao-Programacao-Com_Python**
 
  **Trilha de Aprendizado Ciência de Dados**
 
